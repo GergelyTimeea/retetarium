@@ -1,0 +1,26 @@
+[
+  {
+    "id": "omleta-rapida",
+    "title": "Omletă rapidă",
+    "time": 7,
+    "ingredients": ["ouă", "lapte", "sare", "ardei", "ceapă"],
+    "tags": ["rapid", "mic-dejun"],
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=800"
+  },
+  {
+    "id": "paste-usturoi",
+    "title": "Paste cu usturoi și ulei",
+    "time": 15,
+    "ingredients": ["spaghete", "usturoi", "ulei de măsline", "ardei iute"],
+    "tags": ["rapid", "vegan", "cina"],
+    "image": "https://images.unsplash.com/photo-1523986371872-9d3ba2e2f642?q=80&w=800"
+  },
+  {
+    "id": "salata-greceasca",
+    "title": "Salată grecească",
+    "time": 10,
+    "ingredients": ["roșii", "castraveți", "brânză feta", "măsline"],
+    "tags": ["salata", "pranz"],
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=800"
+  }
+]
